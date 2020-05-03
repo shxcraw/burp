@@ -2,7 +2,7 @@
     "name": "shxcraw/burp",
     "description": "Simple PHP router that works with query-string and uri-segments, laravel filter system",
     "keywords": ["php","router", "filter", "front controller", "simple"],
-    "homepage": "https://github.com/zofe/burp",
+    "homepage": "https://github.com/shxcraw/burp",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0",
+        "php": ">=5.4.0"
     },
     "autoload": {
         "psr-4": {"Zofe\\Burp\\": "src/"}
